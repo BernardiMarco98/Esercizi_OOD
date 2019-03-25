@@ -1,6 +1,6 @@
 package src;
 
-public class Battlefield extends Videogame{
+public class Battlefield extends Videogame {
 
 	public void initialize() {
 		// TODO Auto-generated method stub
@@ -14,9 +14,7 @@ public class Battlefield extends Videogame{
 
 	public void end() {
 		// TODO Auto-generated method stub
-		System.out.println("Chiudendo Battlefield");	
+		System.out.println("Chiudendo Battlefield");
 	}
-	
-	
 
 }

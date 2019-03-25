@@ -14,7 +14,7 @@ public class GranTurismo extends Videogame{
 
 	public void end() {
 		// TODO Auto-generated method stub
-		System.out.println("Chiudendo Gran Turismo");	
+		System.out.println("Chiudendo Gran Turismo");
 	}
 
 }
