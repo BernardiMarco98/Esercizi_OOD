@@ -8,5 +8,7 @@ al quale viene applicato.
 Le classi **Gallina** , **Mucca** e **Pecora** implementano l'interfaccia **AnimaliFattoria** per definire i diversi tipi di oggetti che
 compongono **Fattoria**.
 
-Fonte:
-[Visitor Pattern](https://www.oodesign.com/visitor-pattern.html)
+Fonti:
+- [OOD Visitor Pattern](https://www.oodesign.com/visitor-pattern.html)
+- [Visitor Pattern](https://refactoring.guru/design-patterns/visitor)
+
