@@ -1,12 +1,12 @@
-## Esercizio sul Template Method Pattern
+## Esercizio sul Visitor Pattern
 
-In questo esercizio l'obiettivo è implementare il template method pattern.
+In questo esercizio l'obiettivo è implementare il visitor pattern.
 
-La classe astratta **Videogame** definisce il "template" che le altre sottoclassi dovranno implementare.
+La classe **ConcreteVisitor** implementa l'interfaccia **Visitor** e definisce il comportamento del metodo visit per ogni tipo di oggetto
+al quale viene applicato.
 
-**GranTurismo** e **Battlefield** estendono Videogames.
-
-**Executor** si comporta come un client e fa scegliere all'utente il gioco da inizializzare, eseguire e terminare.
+Le classi **Gallina** , **Mucca** e **Pecora** implementano l'interfaccia **AnimaliFattoria** per definire i diversi tipi di oggetti che
+compongono **Fattoria**.
 
 Fonte:
-[Template Method Pattern](https://www.oodesign.com/template-method-pattern.html)
+[Visitor Pattern](https://www.oodesign.com/visitor-pattern.html)
