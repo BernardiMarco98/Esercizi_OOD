@@ -3,7 +3,7 @@
 In questo esercizio, l'obbiettivo è applicare il Factory Pattern.
 
 Il Factory Design Pattern è probabilmente il modello di progettazione più utilizzato nei linguaggi di programmazione moderni come Java e C #. È disponibile in diverse varianti e implementazioni.
-In questo esercizio verrà utilizzata un versione semplificata e molto popolare oggiogiorno
+In questo esercizio verrà utilizzata un versione semplificata e molto popolare oggigiorno
 
 ### Requisiti:
 - Qualsiasi IDE che supporti Java
