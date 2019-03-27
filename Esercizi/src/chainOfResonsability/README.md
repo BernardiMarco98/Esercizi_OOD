@@ -17,7 +17,7 @@ Chain of Responsibility è un design pattern comportamentale che consente di pas
 Con il metodo setSuccessor() viene definito il nodo successivo della catena.
 Nel codice è presente un while con condizione sempre vera.
 Nel while vieni richiesto di inserire tramite tastiera lo stipendio attuale che del client.
-Se lo stipendio attuale è minore a l'aumento massimo che il responsabile può fare, la richiesta verrà gestita dal responsabile, altrimenti verrè gestita dal nodo successivo (Direttore).
+Se lo stipendio attuale è minore a l'aumento massimo che il responsabile può fare, la richiesta verrà gestita dal responsabile, altrimenti verrè gestita dal nodo successivo (Direttore). Se lo stipendio attuale è troppo alto anche per il Direttore, verrà stampato a console che lo stipendio è troppo alto e non è possibile un aumento.
 
 Nella console verrà stampato: lo stipendio attuale, chi ha gestito la richiesta e lo stipendio dopo l'aumento.
 
