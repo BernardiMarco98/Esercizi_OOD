@@ -32,5 +32,5 @@ La classe **RichiestaAumento** definisce la richiesta.
 ### Documentazione
 
 Vuoi approfondire il funzionamento del pattern di questo esercizio? Segui questi collegamenti!
--[Chain of Responsability - refactoring guru](https://refactoring.guru/design-patterns/chain-of-responsibility)
--[Chain of Responsability - OOD](https://www.oodesign.com/chain-of-responsibility-pattern.html)
+- [Chain of Responsability - refactoring guru](https://refactoring.guru/design-patterns/chain-of-responsibility)
+- [Chain of Responsability - OOD](https://www.oodesign.com/chain-of-responsibility-pattern.html)
